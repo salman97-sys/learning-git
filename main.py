@@ -5,7 +5,8 @@ for i in range(10):
 
 a = 5
 b = 9
+d = 17
 
-c= a*b
+c= a * b - 17
 
 print('This is c', c)
